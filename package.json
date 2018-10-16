@@ -4,5 +4,8 @@
     "build": "elm-app build",
     "start": "elm-app start"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "elm-app": "0.0.19"
+  }
 }
