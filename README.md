@@ -1,0 +1,1 @@
+# foo## UsageFor info: <https://github.com/danneu/elm-app>.Run app in development mode: $ elm-app startCompile app for production: $ elm-app build
