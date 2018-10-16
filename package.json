@@ -2,7 +2,8 @@
   "name": "foo",
   "scripts": {
     "build": "elm-app build",
-    "start": "elm-app start"
+    "start": "elm-app start",
+    "postinstall": "npm rebuild elm"
   },
   "private": true,
   "dependencies": {
